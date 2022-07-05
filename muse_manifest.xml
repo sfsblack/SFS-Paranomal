@@ -1,0 +1,622 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sfsparanormal.ddns.net" resolutions="1x" timestamp="1656458226623">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="153914956" ref="index"/>
+    <file name="galeria.css" crc="275142555" ref="galeria"/>
+    <file name="historias-de-terror.css" crc="369673297" ref="historias-de-terror"/>
+    <file name="videos.css" crc="465853718" ref="videos"/>
+    <file name="libros.css" crc="317123003" ref="libros"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror:tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror:index:galeria:libros:videos:historias-de-terror"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index:galeria:libros:videos:historias-de-terror"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:galeria:libros:videos:historias-de-terror"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:galeria:libros:videos:historias-de-terror"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:galeria:libros:videos:historias-de-terror"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u521.php" crc="4451342" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="banner facebook-crop-u13387.png" crc="3990444372" seo="true" ref="phone>index:phone>galeria:phone>libros:phone>videos:phone>historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u13269.png" crc="3973916819" seo="true" ref="tablet>index:tablet>galeria:tablet>libros:tablet>videos:tablet>historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u13151.png" crc="3901466251" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summa_daemoniaca.jpg" crc="452505818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_visd_0000jpg018sw.jpg" crc="3954764207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51wf-kps2yl_sx307_bo1,204,203,200_.jpg" crc="165149377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="las-leyes-del-infierno.jpg" crc="3826218206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="540928-pjo212-313.jpg" crc="303076497" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cine-e1475689952382.jpg" crc="4093324242" seo="true" ref="index:galeria:libros:videos:historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:galeria:libros:videos:historias-de-terror"/>
+    <file name="750x423_82607_1511_20170609171801.jpg" crc="189462367" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1512_20170609171900.jpg" crc="4124928493" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1516_20170609172048.jpg" crc="4114532502" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1518_20170609172137.jpg" crc="4243926551" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1520_20170609172220.jpg" crc="4247172291" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1521_20170609172240.jpg" crc="4131357066" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fantasmas2.jpg" crc="100833829" seo="true" ref="index:galeria:libros:videos:historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="750x423_82607_1519_20170609172159.jpg" crc="15009001" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1527_20170609172507.jpg" crc="22692885" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cementerio.jpg" crc="43911183" seo="true" ref="index:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:galeria:libros:videos:historias-de-terror"/>
+    <file name="portada youtube.jpg" crc="3819078560" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index:galeria:libros:videos:historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:galeria:libros:videos:historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index:galeria:libros:videos:historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index:galeria:libros:videos:historias-de-terror">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u1782.png" crc="171183073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="750x423_82607_1511_20170609171801-crop-u10536.jpg" crc="358971012" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1512_20170609171900-crop-u10679.jpg" crc="4214925861" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1516_20170609172048-crop-u10705.jpg" crc="3832406014" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1518_20170609172137-crop-u10731.jpg" crc="3984932084" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1519_20170609172159-crop-u10757.jpg" crc="4220323398" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1520_20170609172220-crop-u10783.jpg" crc="4118357076" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1521_20170609172240-crop-u10809.jpg" crc="432732746" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1527_20170609172507-crop-u10835.jpg" crc="50540002" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cementerio-crop-u10861.jpg" crc="77752420" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u10887.jpg" crc="4261603095" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fantasmas260x45.jpg" crc="4159094262" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (1)25x45.jpg" crc="4251861180" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (2)31x45.jpg" crc="3763794909" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (3)34x45.jpg" crc="3830543346" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (4)60x40.jpg" crc="3923284285" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (5)30x45.jpg" crc="4064002229" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (6)31x45.jpg" crc="154836877" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (7)30x45.jpg" crc="4189931316" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (8)30x45.jpg" crc="498747910" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (9)34x45.jpg" crc="3918220973" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (10)60x45.jpg" crc="3971815408" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (11)34x45.jpg" crc="3840196978" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (12)34x45.jpg" crc="4243537838" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (13)60x38.jpg" crc="4117264706" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (14)31x45.jpg" crc="189225018" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (15)30x45.jpg" crc="4118182228" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (16)34x45.jpg" crc="3995700126" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (17)34x45.jpg" crc="3872171907" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (18)30x45.jpg" crc="4108147709" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (19)31x45.jpg" crc="3927675275" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (20)37x45.jpg" crc="3831980465" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (21)37x45.jpg" crc="254987374" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (22)37x45.jpg" crc="519874868" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (23)37x45.jpg" crc="501596552" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (24)37x45.jpg" crc="63772150" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (25)37x45.jpg" crc="3954986471" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (26)37x45.jpg" crc="4072812841" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (1).jpg" crc="4029207600" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (2)-crop-u12053.jpg" crc="4175320471" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (3)-crop-u12073.jpg" crc="165584715" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (4).jpg" crc="3787022260" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (5)-crop-u12113.jpg" crc="451181358" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (6).jpg" crc="406183733" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (7)-crop-u12153.jpg" crc="368010456" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (8)-crop-u12173.jpg" crc="132755958" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (9)-crop-u12193.jpg" crc="3916963964" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (10).jpg" crc="26136318" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (11).jpg" crc="505931464" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (12)-crop-u12253.jpg" crc="213858605" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (13).jpg" crc="3765726447" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (14)-crop-u12293.jpg" crc="4032650318" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (15).jpg" crc="3767095538" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (16)-crop-u12333.jpg" crc="437527054" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (17)-crop-u12353.jpg" crc="3931903684" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (18)-crop-u12373.jpg" crc="119021969" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (19)-crop-u12393.jpg" crc="3896433410" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (20)-crop-u12413.jpg" crc="304932264" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (21)-crop-u12433.jpg" crc="4213566461" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (22)-crop-u12453.jpg" crc="4190525727" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (23)-crop-u12473.jpg" crc="3860482123" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (24)-crop-u12493.jpg" crc="4110847673" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (25)-crop-u12513.jpg" crc="512999584" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fotografias cementerio (26)-crop-u12533.jpg" crc="4206107481" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u4110.png" crc="171183073" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="750x423_82607_1511_20170609171801249x140.jpg" crc="47723015" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1520_20170609172220249x140.jpg" crc="325801839" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1512_20170609171900249x140.jpg" crc="190064816" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1521_20170609172240249x140.jpg" crc="4205641067" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1516_20170609172048249x140.jpg" crc="278625055" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u6966.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1518_20170609172137249x140.jpg" crc="431401738" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="fantasmas2230x173.jpg" crc="4288443412" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1511_20170609171801480x271.jpg" crc="512830242" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1512_20170609171900480x271.jpg" crc="209728618" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1516_20170609172048480x271.jpg" crc="4189404204" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1518_20170609172137480x271.jpg" crc="3885874007" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1520_20170609172220480x271.jpg" crc="407339134" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="750x423_82607_1521_20170609172240480x271.jpg" crc="4171582369" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u7108.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u6947.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u7190.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u7024.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u7075.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u7231.jpg" crc="4281510735" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u7297.png" crc="171183073" seo="true" ref="libros">
+      <caption webpage="libros" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8339.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8588.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8660.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8558.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8448.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8483.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8398.jpg" crc="4281510735" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u8272.png" crc="171183073" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8870.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8840.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8950.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u8986.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u9155.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u9040.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="cine-e1475689952382-crop-u9078.jpg" crc="4281510735" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+    <file name="banner facebook-crop-u9200.png" crc="171183073" seo="true" ref="historias-de-terror">
+      <caption webpage="historias-de-terror" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="417888483" ref="tablet>videos:tablet>historias-de-terror:tablet>index:tablet>galeria:tablet>libros"/>
+      <file name="videos.css" crc="550770" ref="tablet>videos"/>
+      <file name="historias-de-terror.css" crc="550770" ref="tablet>historias-de-terror"/>
+      <file name="index.css" crc="3972401584" ref="tablet>index"/>
+      <file name="galeria.css" crc="550770" ref="tablet>galeria"/>
+      <file name="libros.css" crc="550770" ref="tablet>libros"/>
+    </folder>
+    <file name="index.html" crc="14585389" seo="true" mt="1656458144302" redirect="true"/>
+    <file name="galeria.html" crc="3784195373" seo="true" mt="1656458144302" redirect="true"/>
+    <file name="libros.html" crc="496748728" seo="true" mt="1656458144302" redirect="true"/>
+    <file name="videos.html" crc="4168182527" seo="true" mt="1656458144302" redirect="true"/>
+    <file name="historias-de-terror.html" crc="381848449" seo="true" mt="1656458144302" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3981809859" ref="phone>historias-de-terror:phone>libros:phone>videos:phone>galeria:phone>index"/>
+      <file name="historias-de-terror.css" crc="371210412" ref="phone>historias-de-terror"/>
+      <file name="libros.css" crc="371210412" ref="phone>libros"/>
+      <file name="videos.css" crc="371210412" ref="phone>videos"/>
+      <file name="galeria.css" crc="371210412" ref="phone>galeria"/>
+      <file name="index.css" crc="117892351" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4130114801" seo="true" mt="1656458169308" redirect="true"/>
+    <file name="galeria.html" crc="4104924112" seo="true" mt="1656458169308" redirect="true"/>
+    <file name="libros.html" crc="132672194" seo="true" mt="1656458169308" redirect="true"/>
+    <file name="videos.html" crc="4945975" seo="true" mt="1656458169308" redirect="true"/>
+    <file name="historias-de-terror.html" crc="515623833" seo="true" mt="1656458169308" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4186387237" seo="true" mt="1656457939349" redirect="true"/>
+  <file name="galeria.html" crc="3982635563" seo="true" mt="1656457939413" redirect="true"/>
+  <file name="libros.html" crc="264369066" seo="true" mt="1656457939421" redirect="true"/>
+  <file name="videos.html" crc="463478395" seo="true" mt="1656457939495" redirect="true"/>
+  <file name="historias-de-terror.html" crc="4162826658" seo="true" mt="1656457939510" redirect="true"/>
+</manifest>
